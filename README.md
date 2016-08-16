@@ -1,5 +1,3 @@
-# olaro-sprite
-Cascading Style Sheets Framework (CSS Sprite)
 /*
 |-------------------------------------------------------------------------------------------------------------------------------------|
 | PLEASE DO NOT USE WRAP LINES VIEW                                                                                                   |
@@ -21,6 +19,11 @@ Cascading Style Sheets Framework (CSS Sprite)
 |-------------------------------------------------------------------------------------------------------------------------------------|
 | SIMPLE EXAMPLE FOR THE TOOLTIP BUBBLE:                                                                                              |
 | Content here <span class="os-410" tooltip-bubble="Tooltip Bubble text here">with tootlip bubble</span>!                             |
+|-------------------------------------------------------------------------------------------------------------------------------------|
+| SIMPLE EXAMPLE FOR THE UNIQUE RADIO BUTTON / CHECKBOX AND SELECT:                                                                   |
+| Radio Button: <div class="os-411"><input type="radio" id="1" class="os-411-p" name="radio-1" /><label for="1"></label></div>        |
+| Checkbox:     <div class="os-412"><input type="checkbox" id="1" class="os-412-p" name="checkbox-1" /><label for="1"></label></div>  |
+| Select:       <select class="os-413"><option>select option 1</option><option>select option 2</option><option>etc.</option></select> |
 |-------------------------------------------------------------------------------------------------------------------------------------|
 | IF EITHER OLARO SPRITE CLASS NAME IT MATCHES YOUR CSS CLASS NAME, PLEASE USE ID.                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------|
