@@ -6,7 +6,7 @@
 | SHORT CODE:  os                                                                                                                     |
 | VERSION:     1.0                                                                                                                    |
 | DESCRIPTION: Cascading Style Sheets Framework (CSS Sprite)                                                                          |
-| RIGHTS:      Made in Hungary 2012-Present days - Free Software. Please Do Not Sell This Framework. Thanks!                          |
+| RIGHTS:      Made in Hungary with Hand 2012-Present days - Free Software. Please Do Not Sell This Framework. Thanks!                |
 | CONTACT:     You Found a Bug or Added Plus Class Content? Drop Me a Mail Here: info at olaszroland dot hu                           |
 | NOTICE:      Only For Hardcore Web Developer Users! :) Like It? Tell Your Web Developer Friends in Facebook, Twitter, Google+, etc. |
 |-------------------------------------------------------------------------------------------------------------------------------------|
